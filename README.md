@@ -4,6 +4,7 @@ helper_classes
 ## 1) cache.dart
 Реализация кэша с истечением срока действия.
 Используется пакет localstorage 4.0.1 (https://pub.dev/packages/localstorage)
+
 Пример использования:
 ```
 // кэширование api-запроса получения списка АЗС
